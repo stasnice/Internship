@@ -15,7 +15,7 @@ rl.question('Please type some numbers, and press enter to get sum of min and max
 function getMin(incString) {
     let min;
     for (let i = 0; i < incString.length; i++){
-        if (isNaN(incString[i]) && min === undefined || incString[i] < min){
+        if (!isNaN(incString[i]) && min === undefined || incString[i] < min){
             min = incString[i];
         }
     }
