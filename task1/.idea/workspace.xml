@@ -17,7 +17,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../node/newProject" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604749520200</updated>
-      <workItem from="1604749521789" duration="8244000" />
+      <workItem from="1604749521789" duration="10119000" />
     </task>
     <servers />
   </component>
@@ -43,6 +43,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1604923676258">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/-1680.26.1680.1020@0.0.1536.834" timestamp="1604923676258" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1604750841891">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
